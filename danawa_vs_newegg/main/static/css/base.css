@@ -1,0 +1,22 @@
+header {
+    display: grid;
+    height: 10vh;
+    font-family: sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    margin-top: -0.4%;
+    align-items: center;
+    user-select: none;
+    background-color: burlywood;
+    position: sticky;
+    top: 0;
+}
+
+p {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    font-family: sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
