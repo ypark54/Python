@@ -1,22 +1,13 @@
 from django.shortcuts import render
-
-posts = [
-    {
-        'author': 'aa',
-        'title': 'bb'
-    },
-    {
-        'author': 'cc',
-        'title': 'dd'
-    }
-]
+from .models import A
+from django.http import HttpResponse
 
 def home(request):
-    context = {
-        'posts':posts
-    }
-    return render(request, 'main/main.html', context)
+    return render(request, 'main/main.html')
 
 def cpu(request):
-
-    return render(request, 'main/cpu.html')
+    c = {
+        'asd':A.objects.all()
+    }
+    print(c.get('asd'))
+    return render(request, 'main/cpu.html', c)
