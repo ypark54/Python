@@ -1,26 +1,17 @@
-from bs4 import BeautifulSoup
 import requests
-import chardet
-import io
+import sys
+from PyQt5.QtWidgets import QApplication
+from PyQt5.QtCore import QUrl
+from PyQt5.QtWebEngineWidgets import QWebEnginePage
+from bs4 import BeautifulSoup
 
-headers = requests.utils.default_headers()
-headers.update({
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36',
-})
+bibtex_id = '10.1038/s41427-019-0143-9'
 
-urlBase = 'https://newtoki51.com/'
-source = requests.get(urlBase, headers=headers)
+url = "http://www.doi2bib.org/{id}".format(id=bibtex_id)
+xhr_url = 'http://www.doi2bib.org/'
 
+with requests.Session() as session:
+    session.get(url)
 
-#print(source.apparent_encoding)
-#print(source.encoding)
-text = source.text
-soup = BeautifulSoup(text, 'lxml')
-
-#print(soup.get_text())
-#print(type(soup))
-
-#print(type("sdf"))
-#f.write(str(soup))
-
-print(soup.prettify)
+    response = session.get(xhr_url, params={'id': bibtex_id})
+    print(response.content)
