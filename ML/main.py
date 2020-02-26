@@ -2,48 +2,41 @@ import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
+from IPython.display import Image
+from sklearn.metrics import confusion_matrix
+import time
+from datetime import timedelta
+import math
 
 data = keras.datasets.fashion_mnist
 
 (train_images, train_labels), (test_images, test_labels) = data.load_data()
 
-plt.imshow(train_images[0])
-#plt.show()
 
-train_images_scale_down = train_images/256
-test_images_scale_down = test_images/256
+# Normalize the images.
+train_images = (train_images / 255) - 0.5
+test_images = (test_images / 255) - 0.5
 
-#print(train_images_scale_down[0])
+# Reshape the images.
+train_images = np.expand_dims(train_images, axis=3)
+test_images = np.expand_dims(test_images, axis=3)
 
-model = keras.Sequential([
-    keras.layers.Flatten(input_shape = (28,28)),
-    keras.layers.Dense(128, activation = "relu"),
-    keras.layers.Dense(10, activation = "softmax")
+num_filters = 8
+filter_size = 3
+pool_size = 2
+
+# Build the model.
+model = keras.models.Sequential([
+  keras.layers.Conv2D(num_filters, filter_size, input_shape=(28, 28, 1)),
+  keras.layers.MaxPooling2D(pool_size=pool_size),
+  keras.layers.Flatten(),
+  keras.layers.Dense(128, activation = "relu"),
+  keras.layers.Dense(10, activation='softmax'),
 ])
 
+# Compile the model.
 model.compile(optimizer="adam", loss = "sparse_categorical_crossentropy", metrics=["accuracy"])
-for x in range(40):
-    model.fit(train_images_scale_down, train_labels, epochs=1)
-    train_loss, train_acc = model.evaluate(train_images_scale_down, train_labels)
-    test_loss, test_acc = model.evaluate(test_images_scale_down, test_labels)
-    print(train_acc, test_acc)
-    #prediction_array = model.predict(test_images_scale_down)
-    #prediction = [list(p).index(max(p)) for p in list(prediction_array)]
-
-    #count_True = 0
-    #count_False = 0
-    #for x, y in zip(prediction, list(test_labels)):
-    #    if x == y:
-    #        count_True += 1
-    #    else:
-    #        count_False += 1
-
-    #print(count_True, count_False)
-
-
-
-
+# Train the model.
+model.fit(train_images, train_labels, epochs=5)
+test_loss, test_acc = model.evaluate(test_images, test_labels)
 print(test_acc)
-
-if __name__ == '__main__':
-    print("Hello World")
