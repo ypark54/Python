@@ -1,0 +1,23 @@
+0
+1197 1226
+1
+1242 1271
+
+length of "currency" = 70
+
+1226 1395
+
+look for non black item at row 176 starting at 0 -> C1
+look for non black item at row 176 starting at C1+71 -> N1
+
+left number (40,196) (40,h-26) (C1,196) (C1,h-26)
+left text (N1-169, 196) (N1-169, h-26) (N1, 196) (N1,h-26) 
+
+look for non black item at row 215 starting at w/2 -> e
+look for non blact item at row 176 starting at w/2 -> c2
+
+left number (E, 196) (E, h-26) (C2+29-W, 196), (C2+29-W, h-26)
+left text (C2+29, 196) (C2+29,h-26) (C2+225, 196) (C2+225, h-26)
+
+X symbol width = N1-169-C1 = W
+look for non black item at row 176 ->when C start = 2nd essence symbol, +29 then start reading text

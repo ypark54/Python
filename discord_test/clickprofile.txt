@@ -1,0 +1,2 @@
+click
+average: 0.06365472727482861 standard deviation: 0.012447467353326233

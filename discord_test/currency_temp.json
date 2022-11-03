@@ -1,0 +1,2259 @@
+
+    "astragali": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "exotic-coinage": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "scrap-metal": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "burial-medallion": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fine-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "singular-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "thaumaturges-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "blacksmiths-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "armoursmiths-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "cartographers-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewellers-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "abyssal-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "kalguuran-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "foreboding-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "obscured-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "whispering-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragmented-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "skittering-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fossilised-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "portentous-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "diviners-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "primal-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "imperial-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "blighted-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "amorphous-delirium-orb": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "crescent-splinter": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "grie": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rage": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "hope": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "ign": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "hydra": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "phoenix": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "minot": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "chimer": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-enslavement": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-eradication": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-constriction": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-purification": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-terror": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-emptiness": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-shape": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fragment-of-knowledge": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "al-hezmins-crest": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "barans-crest": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "droxs-crest": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "veritanias-crest": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "the-formed": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "the-twisted": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "the-forgotten": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "the-hidden": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "the-feared": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "the-elderslayers": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "the-mavens-writ": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "writhing-invitation": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "screaming-invitation": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polaric-invitation": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "incandescent-invitation": {
+        "buy_in_c": 0,
+        "buy_in_c_enabled": false,
+        "sell_in_c": 0,
+        "sell_in_c_enabled": false,
+        "buy_in_ex": 0,
+        "buy_in_ex_enabled": false,
+        "sell_in_ex": 0,
+        "sell_in_ex_enabled": false,
+        "tab": "",
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "crusaders-exalted-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "redeemers-exalted-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "hunters-exalted-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "warlords-exalted-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "awakeners-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "mavens-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "prime-regrading-lens": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "secondary-regrading-lens": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tempering-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tailoring-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "blessing-xoph": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "blessing-tul": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "blessing-esh": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "blessing-uul-netol": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "blessing-chayula": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "sacred-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "annulment-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "mirror-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "exalted-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "binding-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "horizon-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "harbingers-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "engineers-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "ancient-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "chaos-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "regal-shard": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "splinter-xoph": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "splinter-tul": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "splinter-esh": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "splinter-uul": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "splinter-chayula": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-eternal-empire-splinter": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-karui-splinter": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-vaal-splinter": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-templar-splinter": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-maraketh-splinter": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "simulacrum-splinter": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "ritual-splinter": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "dusk": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "mid": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "dawn": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "noon": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "xophs-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tuls-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "eshs-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uul-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "chayulas-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "xophs-charged-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tuls-charged-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "eshs-charged-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uul-charged-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "chayulas-charged-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "xophs-enriched-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tuls-enriched-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "eshs-enriched-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uul-enriched-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "chayulas-enriched-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "xophs-pure-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tuls-pure-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "eshs-pure-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uul-pure-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "chayulas-pure-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "xophs-flawless-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tuls-flawless-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "eshs-flawless-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uul-flawless-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "chayulas-flawless-breachstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "timeless-eternal-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-karui-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-vaal-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-templar-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "timeless-maraketh-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uber-timeless-eternal-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uber-timeless-karui-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uber-timeless-vaal-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uber-timeless-templar-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "uber-timeless-maraketh-emblem": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "simulacrum": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "sacred-blossom": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "ritual-vessel": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "offer": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "offer-tribute": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "offer-gift": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "offer-dedication": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "tainted-chromatic-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-orb-of-fusing": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-jewellers-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-chaos-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-exalted-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-mythic-orb": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-armourers-scrap": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-blacksmiths-whetstone": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-divine-teardrop": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-blessing": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    
+    "turbulent-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "imbued-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "abrasive-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tempering-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fertile-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "prismatic-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "intrinsic-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "noxious-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "accelerating-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "unstable-catalyst": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "clear-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "sepia-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "amber-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "verdant-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "teal-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "azure-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "indigo-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "violet-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "crimson-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "black-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "opalescent-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "silver-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "golden-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "tainted-oil": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "oil-extractor": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-breach-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-breach-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-breach-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-breach-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-cartography-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-cartography-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-cartography-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-cartography-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-reliquary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-reliquary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-reliquary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-reliquary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-bestiary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-bestiary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-bestiary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-bestiary-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "farric-lure": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "saqawine-lure": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "fenumal-lure": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "craicic-lure": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-shaper-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-shaper-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-shaper-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-shaper-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-elder-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-elder-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-elder-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-elder-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-sulphite-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-sulphite-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-sulphite-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-sulphite-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-divination-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-divination-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-divination-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-divination-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-torment-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-torment-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-torment-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-torment-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-ambush-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-ambush-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-ambush-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-ambush-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-harbinger-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-harbinger-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-harbinger-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-harbinger-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-expedition-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-expedition-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-expedition-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "winged-expedition-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-legion-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-legion-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-legion-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-legion-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-metamorph-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-metamorph-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-metamorph-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "jewelled-metamorph-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-blight-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-blight-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-blight-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "winged-blight-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "rusted-abyss-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "polished-abyss-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "gilded-abyss-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },
+    "winged-abyss-scarab": {
+        "buy_in_c": 0,
+        "sell_in_c": 0,
+        "buy_in_ex": 0,
+        "sell_in_ex": 0,
+        "stash_coord": [0,0],
+        "max_stack":0
+    },

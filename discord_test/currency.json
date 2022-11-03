@@ -1,0 +1,529 @@
+{
+    "essence": {
+        "deafening greed": {
+            "tag": "deafening-essence-of-greed",
+            "chaos": 3.0,
+            "exalted": 0.024691358024691357
+        },
+        "shrieking greed": {
+            "tag": "shrieking-essence-of-greed",
+            "chaos": 1.0,
+            "exalted": 0.008230452674897118
+        },
+        "screaming greed": {
+            "tag": "screaming-essence-of-greed",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.0027434842249657062
+        },
+        "wailing greed": {
+            "tag": "wailing-essence-of-greed",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0009144947416552355
+        },
+        "weeping greed": {
+            "tag": "weeping-essence-of-greed",
+            "chaos": 0.037037037037037035,
+            "exalted": 0.00030483158055174517
+        },
+        "muttering greed": {
+            "tag": "muttering-essence-of-greed",
+            "chaos": 0.012345679012345678,
+            "exalted": 0.00010161052685058171
+        },
+        "whispering greed": {
+            "tag": "whispering-essence-of-greed",
+            "chaos": 0.00411522633744856,
+            "exalted": 3.387017561686057e-05
+        },
+        "deafening contempt": {
+            "tag": "deafening-essence-of-contempt",
+            "chaos": 3.0,
+            "exalted": 0.03571428571428571
+        },
+        "shrieking contempt": {
+            "tag": "shrieking-essence-of-contempt",
+            "chaos": 1.0,
+            "exalted": 0.011904761904761904
+        },
+        "screaming contempt": {
+            "tag": "screaming-essence-of-contempt",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.003968253968253968
+        },
+        "wailing contempt": {
+            "tag": "wailing-essence-of-contempt",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0013227513227513227
+        },
+        "weeping contempt": {
+            "tag": "weeping-essence-of-contempt",
+            "chaos": 0.037037037037037035,
+            "exalted": 0.0004409171075837742
+        },
+        "muttering contempt": {
+            "tag": "muttering-essence-of-contempt",
+            "chaos": 0.012345679012345678,
+            "exalted": 0.00014697236919459142
+        },
+        "whispering contempt": {
+            "tag": "whispering-essence-of-contempt",
+            "chaos": 0.00411522633744856,
+            "exalted": 4.899078973153047e-05
+        },
+        "deafening hatred": {
+            "tag": "deafening-essence-of-hatred",
+            "chaos": 3.0,
+            "exalted": 0.03773584905660377
+        },
+        "shrieking hatred": {
+            "tag": "shrieking-essence-of-hatred",
+            "chaos": 1.0,
+            "exalted": 0.012578616352201257
+        },
+        "screaming hatred": {
+            "tag": "screaming-essence-of-hatred",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.0041928721174004195
+        },
+        "wailing hatred": {
+            "tag": "wailing-essence-of-hatred",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.001397624039133473
+        },
+        "weeping hatred": {
+            "tag": "weeping-essence-of-hatred",
+            "chaos": 0.037037037037037035,
+            "exalted": 0.00046587467971115766
+        },
+        "muttering hatred": {
+            "tag": "muttering-essence-of-hatred",
+            "chaos": 0.012345679012345678,
+            "exalted": 0.00015529155990371923
+        },
+        "whispering hatred": {
+            "tag": "whispering-essence-of-hatred",
+            "chaos": 0.00411522633744856,
+            "exalted": 5.1763853301239745e-05
+        },
+        "deafening woe": {
+            "tag": "deafening-essence-of-woe",
+            "chaos": 2.0,
+            "exalted": 0.027777777777777776
+        },
+        "shrieking woe": {
+            "tag": "shrieking-essence-of-woe",
+            "chaos": 0.6666666666666666,
+            "exalted": 0.009259259259259259
+        },
+        "screaming woe": {
+            "tag": "screaming-essence-of-woe",
+            "chaos": 0.2222222222222222,
+            "exalted": 0.0030864197530864196
+        },
+        "wailing woe": {
+            "tag": "wailing-essence-of-woe",
+            "chaos": 0.07407407407407407,
+            "exalted": 0.0010288065843621398
+        },
+        "weeping woe": {
+            "tag": "weeping-essence-of-woe",
+            "chaos": 0.024691358024691357,
+            "exalted": 0.0003429355281207133
+        },
+        "muttering woe": {
+            "tag": "muttering-essence-of-woe",
+            "chaos": 0.00823045267489712,
+            "exalted": 0.00011431184270690443
+        },
+        "whispering woe": {
+            "tag": "whispering-essence-of-woe",
+            "chaos": 0.0027434842249657062,
+            "exalted": 3.8103947568968146e-05
+        },
+        "deafening fear": {
+            "tag": "deafening-essence-of-fear",
+            "chaos": 2.0,
+            "exalted": 0.013888888888888888
+        },
+        "shrieking fear": {
+            "tag": "shrieking-essence-of-fear",
+            "chaos": 0.6666666666666666,
+            "exalted": 0.004629629629629629
+        },
+        "screaming fear": {
+            "tag": "screaming-essence-of-fear",
+            "chaos": 0.2222222222222222,
+            "exalted": 0.0015432098765432098
+        },
+        "wailing fear": {
+            "tag": "wailing-essence-of-fear",
+            "chaos": 0.07407407407407407,
+            "exalted": 0.0005144032921810699
+        },
+        "weeping fear": {
+            "tag": "weeping-essence-of-fear",
+            "chaos": 0.024691358024691357,
+            "exalted": 0.00017146776406035664
+        },
+        "muttering fear": {
+            "tag": "muttering-essence-of-fear",
+            "chaos": 0.00823045267489712,
+            "exalted": 5.7155921353452216e-05
+        },
+        "deafening anger": {
+            "tag": "deafening-essence-of-anger",
+            "chaos": 3.0,
+            "exalted": 0.03333333333333333
+        },
+        "shrieking anger": {
+            "tag": "shrieking-essence-of-anger",
+            "chaos": 1.0,
+            "exalted": 0.011111111111111112
+        },
+        "screaming anger": {
+            "tag": "screaming-essence-of-anger",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.003703703703703704
+        },
+        "wailing anger": {
+            "tag": "wailing-essence-of-nger",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0012345679012345679
+        },
+        "weeping anger": {
+            "tag": "weeping-essence-of-anger",
+            "chaos": 0.037037037037037035,
+            "exalted": 0.00041152263374485596
+        },
+        "muttering anger": {
+            "tag": "muttering-essence-of-anger",
+            "chaos": 0.012345679012345678,
+            "exalted": 0.00013717421124828533
+        },
+        "deafening torment": {
+            "tag": "deafening-essence-of-torment",
+            "chaos": 0.5,
+            "exalted": 0.006944444444444444
+        },
+        "shrieking torment": {
+            "tag": "shrieking-essence-of-torment",
+            "chaos": 0.16666666666666666,
+            "exalted": 0.0023148148148148147
+        },
+        "screaming torment": {
+            "tag": "screaming-essence-of-torment",
+            "chaos": 0.05555555555555555,
+            "exalted": 0.0007716049382716049
+        },
+        "wailing torment": {
+            "tag": "wailing-essence-of-torment",
+            "chaos": 0.018518518518518517,
+            "exalted": 0.00025720164609053495
+        },
+        "weeping torment": {
+            "tag": "weeping-essence-of-torment",
+            "chaos": 0.006172839506172839,
+            "exalted": 8.573388203017832e-05
+        },
+        "muttering torment": {
+            "tag": "muttering-essence-of-torment",
+            "chaos": 0.00205761316872428,
+            "exalted": 2.8577960676726108e-05
+        },
+        "deafening sorrow": {
+            "tag": "deafening-essence-of-sorrow",
+            "chaos": 6.0,
+            "exalted": 0.06060606060606061
+        },
+        "shrieking sorrow": {
+            "tag": "shrieking-essence-of-sorrow",
+            "chaos": 2.0,
+            "exalted": 0.020202020202020204
+        },
+        "screaming sorrow": {
+            "tag": "screaming-essence-of-sorrow",
+            "chaos": 0.6666666666666666,
+            "exalted": 0.006734006734006735
+        },
+        "wailing sorrow": {
+            "tag": "wailing-essence-of-sorrow",
+            "chaos": 0.2222222222222222,
+            "exalted": 0.002244668911335578
+        },
+        "weeping sorrow": {
+            "tag": "weeping-essence-of-sorrow",
+            "chaos": 0.07407407407407407,
+            "exalted": 0.0007482229704451927
+        },
+        "muttering sorrow": {
+            "tag": "muttering-essence-of-sorrow",
+            "chaos": 0.024691358024691357,
+            "exalted": 0.00024940765681506424
+        },
+        "deafening rage": {
+            "tag": "deafening-essence-of-rage",
+            "chaos": 6.0,
+            "exalted": 0.05714285714285714
+        },
+        "shrieking rage": {
+            "tag": "shrieking-essence-of-rage",
+            "chaos": 2.0,
+            "exalted": 0.019047619047619046
+        },
+        "screaming rage": {
+            "tag": "screaming-essence-of-rage",
+            "chaos": 0.6666666666666666,
+            "exalted": 0.006349206349206349
+        },
+        "wailing rage": {
+            "tag": "wailing-essence-of-rage",
+            "chaos": 0.2222222222222222,
+            "exalted": 0.0021164021164021165
+        },
+        "weeping rage": {
+            "tag": "weeping-essence-of-rage",
+            "chaos": 0.07407407407407407,
+            "exalted": 0.0007054673721340387
+        },
+        "deafening suffering": {
+            "tag": "deafening-essence-of-suffering",
+            "chaos": 0.5,
+            "exalted": 0.006172839506172839
+        },
+        "shrieking suffering": {
+            "tag": "shrieking-essence-of-suffering",
+            "chaos": 0.16666666666666666,
+            "exalted": 0.0020576131687242796
+        },
+        "screaming suffering": {
+            "tag": "screaming-essence-of-suffering",
+            "chaos": 0.05555555555555555,
+            "exalted": 0.0006858710562414266
+        },
+        "wailing suffering": {
+            "tag": "wailing-essence-of-suffering",
+            "chaos": 0.018518518518518517,
+            "exalted": 0.00022862368541380886
+        },
+        "weeping suffering": {
+            "tag": "weeping-essence-of-suffering",
+            "chaos": 0.006172839506172839,
+            "exalted": 7.620789513793629e-05
+        },
+        "deafening wrath": {
+            "tag": "deafening-essence-of-wrath",
+            "chaos": 3.0,
+            "exalted": 0.03571428571428571
+        },
+        "shrieking wrath": {
+            "tag": "shrieking-essence-of-wrath",
+            "chaos": 1.0,
+            "exalted": 0.011904761904761904
+        },
+        "screaming wrath": {
+            "tag": "screaming-essence-of-wrath",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.003968253968253968
+        },
+        "wailing wrath": {
+            "tag": "wailing-essence-of-wrath",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0013227513227513227
+        },
+        "weeping wrath": {
+            "tag": "weeping-essence-of-wrath",
+            "chaos": 0.037037037037037035,
+            "exalted": 0.0004409171075837742
+        },
+        "deafening doubt": {
+            "tag": "deafening-essence-of-doubt",
+            "chaos": 1.0,
+            "exalted": 0.011111111111111112
+        },
+        "shrieking doubt": {
+            "tag": "shrieking-essence-of-doubt",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.003703703703703704
+        },
+        "screaming doubt": {
+            "tag": "screaming-essence-of-doubt",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0012345679012345679
+        },
+        "wailing doubt": {
+            "tag": "wailing-essence-of-doubt",
+            "chaos": 0.037037037037037035,
+            "exalted": 0.00041152263374485596
+        },
+        "weeping doubt": {
+            "tag": "weeping-essence-of-doubt",
+            "chaos": 0.012345679012345678,
+            "exalted": 0.00013717421124828533
+        },
+        "deafening loathing": {
+            "tag": "deafening-essence-of-loathing",
+            "chaos": 5.0,
+            "exalted": 0.06666666666666667
+        },
+        "shrieking loathing": {
+            "tag": "shrieking-essence-of-loathing",
+            "chaos": 1.6666666666666667,
+            "exalted": 0.022222222222222223
+        },
+        "screaming loathing": {
+            "tag": "screaming-essence-of-loathing",
+            "chaos": 0.5555555555555556,
+            "exalted": 0.007407407407407408
+        },
+        "wailing loathing": {
+            "tag": "wailing-essence-of-loathing",
+            "chaos": 0.18518518518518517,
+            "exalted": 0.0024691358024691358
+        },
+        "deafening zeal": {
+            "tag": "deafening-essence-of-zeal",
+            "chaos": 3.0,
+            "exalted": 0.037037037037037035
+        },
+        "shrieking zeal": {
+            "tag": "shrieking-essence-of-zeal",
+            "chaos": 1.0,
+            "exalted": 0.012345679012345678
+        },
+        "screaming zeal": {
+            "tag": "screaming-essence-of-zeal",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.004115226337448559
+        },
+        "wailing zeal": {
+            "tag": "wailing-essence-of-zeal",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0013717421124828531
+        },
+        "deafening anguish": {
+            "tag": "deafening-essence-of-anguish",
+            "chaos": 0.5,
+            "exalted": 0.0064516129032258064
+        },
+        "shrieking anguish": {
+            "tag": "shrieking-essence-of-anguish",
+            "chaos": 0.16666666666666666,
+            "exalted": 0.002150537634408602
+        },
+        "screaming anguish": {
+            "tag": "screaming-essence-of-anguish",
+            "chaos": 0.05555555555555555,
+            "exalted": 0.0007168458781362007
+        },
+        "wailing anguish": {
+            "tag": "wailing-essence-of-anguish",
+            "chaos": 0.018518518518518517,
+            "exalted": 0.00023894862604540023
+        },
+        "deafening spite": {
+            "tag": "deafening-essence-of-spite",
+            "chaos": 6.0,
+            "exalted": 0.058823529411764705
+        },
+        "shrieking spite": {
+            "tag": "shrieking-essence-of-spite",
+            "chaos": 2.0,
+            "exalted": 0.0196078431372549
+        },
+        "screaming spite": {
+            "tag": "screaming-essence-of-spite",
+            "chaos": 0.6666666666666666,
+            "exalted": 0.006535947712418301
+        },
+        "wailing spite": {
+            "tag": "wailing-essence-of-spite",
+            "chaos": 0.2222222222222222,
+            "exalted": 0.0021786492374727667
+        },
+        "deafening scorn": {
+            "tag": "deafening-essence-of-scorn",
+            "chaos": 3.0,
+            "exalted": 0.047619047619047616
+        },
+        "shrieking scorn": {
+            "tag": "shrieking-essence-of-scorn",
+            "chaos": 1.0,
+            "exalted": 0.015873015873015872
+        },
+        "screaming scorn": {
+            "tag": "screaming-essence-of-scorn",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.005291005291005291
+        },
+        "deafening envy": {
+            "tag": "deafening-essence-of-envy",
+            "chaos": 3.0,
+            "exalted": 0.034482758620689655
+        },
+        "shrieking envy": {
+            "tag": "shrieking-essence-of-envy",
+            "chaos": 1.0,
+            "exalted": 0.011494252873563218
+        },
+        "screaming envy": {
+            "tag": "screaming-essence-of-envy",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.0038314176245210726
+        },
+        "deafening misery": {
+            "tag": "deafening-essence-of-misery",
+            "chaos": 1.0,
+            "exalted": 0.007407407407407408
+        },
+        "shrieking misery": {
+            "tag": "shrieking-essence-of-misery",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.0024691358024691358
+        },
+        "screaming misery": {
+            "tag": "screaming-essence-of-misery",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0008230452674897119
+        },
+        "deafening dread": {
+            "tag": "deafening-essence-of-dread",
+            "chaos": 1.0,
+            "exalted": 0.012345679012345678
+        },
+        "shrieking dread": {
+            "tag": "shrieking-essence-of-dread",
+            "chaos": 0.3333333333333333,
+            "exalted": 0.004115226337448559
+        },
+        "screaming dread": {
+            "tag": "screaming-essence-of-dread",
+            "chaos": 0.1111111111111111,
+            "exalted": 0.0013717421124828531
+        },
+        "insanity": {
+            "tag": "essence-of-insanity",
+            "chaos": 10.0,
+            "exalted": 0.125
+        },
+        "horror": {
+            "tag": "essence-of-horror",
+            "chaos": 30.0,
+            "exalted": 0.25
+        },
+        "delirium": {
+            "tag": "essence-of-delirium",
+            "chaos": 11.0,
+            "exalted": 0.14285714285714285
+        },
+        "hysteria": {
+            "tag": "essence-of-hysteria",
+            "chaos": 10.0,
+            "exalted": 0.125
+        },
+        "remnant": {
+            "tag": "remnant-of-corruption",
+            "chaos": 1.0,
+            "exalted": 0.01
+        }
+    }
+}

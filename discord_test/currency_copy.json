@@ -1,0 +1,524 @@
+{
+    "essences": {
+        "deafening greed": {
+            "tag": "deafening-essence-of-greed",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking greed": {
+            "tag": "shrieking greed",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming greed": {
+            "tag": "screaming greed",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing greed": {
+            "tag": "wailing greed",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping greed": {
+            "tag": "weeping greed",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering greed": {
+            "tag": "muttering greed",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "whispering greed": {
+            "tag": "whispering greed",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening contempt": {
+            "tag": "deafening contempt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking contempt": {
+            "tag": "shrieking contempt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming contempt": {
+            "tag": "screaming contempt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing contempt": {
+            "tag": "wailing contempt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping contempt": {
+            "tag": "weeping contempt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering contempt": {
+            "tag": "muttering contempt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "whispering contempt": {
+            "tag": "whispering contempt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening hatred": {
+            "tag": "deafening hatred",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking hatred": {
+            "tag": "shrieking hatred",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming hatred": {
+            "tag": "screaming hatred",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing hatred": {
+            "tag": "wailing hatred",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping hatred": {
+            "tag": "weeping hatred",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering hatred": {
+            "tag": "muttering hatred",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "whispering hatred": {
+            "tag": "whispering hatred",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening woe": {
+            "tag": "deafening woe",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking woe": {
+            "tag": "shrieking woe",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming woe": {
+            "tag": "screaming woe",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing woe": {
+            "tag": "wailing woe",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping woe": {
+            "tag": "weeping woe",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering woe": {
+            "tag": "muttering woe",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "whispering woe": {
+            "tag": "whispering woe",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening fear": {
+            "tag": "deafening fear",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking fear": {
+            "tag": "shrieking fear",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming fear": {
+            "tag": "screaming fear",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing fear": {
+            "tag": "wailing fear",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping fear": {
+            "tag": "weeping fear",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering fear": {
+            "tag": "muttering fear",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening anger": {
+            "tag": "deafening anger",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking anger": {
+            "tag": "shrieking anger",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming anger": {
+            "tag": "screaming anger",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing anger": {
+            "tag": "wailing anger",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping anger": {
+            "tag": "weeping anger",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering anger": {
+            "tag": "muttering anger",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening torment": {
+            "tag": "deafening torment",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking torment": {
+            "tag": "shrieking torment",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming torment": {
+            "tag": "screaming torment",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing torment": {
+            "tag": "wailing torment",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping torment": {
+            "tag": "weeping torment",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering torment": {
+            "tag": "muttering torment",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening sorrow": {
+            "tag": "deafening sorrow",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking sorrow": {
+            "tag": "shrieking sorrow",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming sorrow": {
+            "tag": "screaming sorrow",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing sorrow": {
+            "tag": "wailing sorrow",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping sorrow": {
+            "tag": "weeping sorrow",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "muttering sorrow": {
+            "tag": "muttering sorrow",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening rage": {
+            "tag": "deafening rage",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking rage": {
+            "tag": "shrieking rage",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming rage": {
+            "tag": "screaming rage",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing rage": {
+            "tag": "wailing rage",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping rage": {
+            "tag": "weeping rage",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening suffering": {
+            "tag": "deafening suffering",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking suffering": {
+            "tag": "shrieking suffering",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming suffering": {
+            "tag": "screaming suffering",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing suffering": {
+            "tag": "wailing suffering",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping suffering": {
+            "tag": "weeping suffering",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening wrath": {
+            "tag": "deafening wrath",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking wrath": {
+            "tag": "shrieking wrath",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming wrath": {
+            "tag": "screaming wrath",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing wrath": {
+            "tag": "wailing wrath",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping wrath": {
+            "tag": "weeping wrath",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening doubt": {
+            "tag": "deafening doubt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking doubt": {
+            "tag": "shrieking doubt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming doubt": {
+            "tag": "screaming doubt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing doubt": {
+            "tag": "wailing doubt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "weeping doubt": {
+            "tag": "weeping doubt",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening loathing": {
+            "tag": "deafening loathing",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking loathing": {
+            "tag": "shrieking loathing",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming loathing": {
+            "tag": "screaming loathing",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening zeal": {
+            "tag": "deafening zeal",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking zeal": {
+            "tag": "shrieking zeal",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming zeal": {
+            "tag": "screaming zeal",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing zeal": {
+            "tag": "wailing zeal",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening anguish": {
+            "tag": "deafening anguish",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking anguish": {
+            "tag": "shrieking anguish",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming anguish": {
+            "tag": "screaming anguish",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing anguish": {
+            "tag": "wailing anguish",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening spite": {
+            "tag": "deafening spite",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking spite": {
+            "tag": "shrieking spite",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming spite": {
+            "tag": "screaming spite",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "wailing spite": {
+            "tag": "wailing spite",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening scorn": {
+            "tag": "deafening scorn",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking scorn": {
+            "tag": "shrieking scorn",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming scorn": {
+            "tag": "screaming scorn",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening envy": {
+            "tag": "deafening envy",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking envy": {
+            "tag": "shrieking envy",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming envy": {
+            "tag": "screaming envy",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening misery": {
+            "tag": "deafening misery",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking misery": {
+            "tag": "shrieking misery",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming misery": {
+            "tag": "screaming misery",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "deafening dread": {
+            "tag": "deafening dread",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "shrieking dread": {
+            "tag": "shrieking dread",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "screaming dread": {
+            "tag": "screaming dread",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "insanity": {
+            "tag": "insanity",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "horror": {
+            "tag": "horror",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "delirium": {
+            "tag": "delirium",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "hysteria": {
+            "tag": "hysteria",
+            "chaos": 0,
+            "exalted": 0
+        },
+        "remnant": {
+            "tag": "remnant",
+            "chaos": 0,
+            "exalted": 0
+        }
+    }
+}

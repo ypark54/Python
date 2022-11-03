@@ -1,0 +1,424 @@
+{
+    "alteration": "alt",
+    "orb of alteration": "alt",
+    "alt": "alt",
+    
+    "orb of fusing": "fusing",
+    "fusing": "fusing",
+    "fuse": "fusing",
+
+    "orb of alchemy": "alch",
+    "alc": "alch",
+    "alch": "alch",
+
+    "chaos orb": "chaos",
+    "chaos": "chaos",
+
+    "gemcutter's prism": "gcp",
+    "gemcutters prism": "gcp",
+    "gemcutter's": "gcp",
+    "gemcutters": "gcp",
+    "prism": "gcp",
+    "gcp": "gcp",
+
+    "exalted orb": "exalted",
+    "exalted": "exalted",
+    "exalt": "exalted",
+    "exa": "exalted",
+    "ex": "exalted",
+
+    "chromatic orb": "chrome",
+    "chromatic": "chrome",
+    "chrome": "chrome",
+
+    "jeweller's orb": "jewellers",
+    "jeweller's": "jewellers",
+    "jewellers orb": "jewellers",
+    "jewellers": "jewellers",
+
+    "engineer's orb": "engineers",
+    "engineers orb": "engineers",
+    "engineer's": "engineers",
+    "engineers": "engineers",
+    "engineer": "engineers",
+
+    "orb of chance": "chance",
+    "chance": "chance",
+
+    "cartographer's chisel": "chisel",
+    "cartographers chisel": "chisel",
+    "cartographer's": "chisel",
+    "cartographers": "chisel",
+    "chisel": "chisel",
+
+    "orb of scouring":"scour",
+    "scouring":"scour",
+    "scour":"scour",
+    
+    "blessed orb": "blessed",
+    "blessed": "blessed",
+    "bless": "blessed",
+
+    "orb of regret": "regret",
+    "regret": "regret",
+
+    "regal orb": "regal",
+    "regal": "regal",
+
+    "divine orb": "divine",
+    "divine": "divine",
+
+    "vaal orb": "vaal",
+    "vaal": "vaal",
+
+    "orb of annulment": "annul",
+    "annulment": "annul",
+    "annul": "annul",
+
+    "binding": "orb-of-binding",
+    "orb of binding": "orb-of-binding",
+    "orb-of-binding": "orb-of-binding",
+
+    "ancient-orb": "ancient-orb",
+    "ancient orb": "ancient-orb",
+    "ancient": "ancient-orb",
+
+    "orb-of-horizons": "orb-of-horizons",
+    "orb of horizons": "orb-of-horizons",
+    "horizons": "orb-of-horizons",
+    "horizon": "orb-of-horizons",
+    "orb-of-horizon": "orb-of-horizons",
+    "orb of horizon": "orb-of-horizons",
+
+    "harbingers-orb": "harbingers-orb",
+    "harbingers": "harbingers-orb",
+    "harbingers orb": "harbingers-orb",
+    "harbinger's orb": "harbingers-orb",
+    "harbinger": "harbingers-orb",
+
+    "scroll of wisdom": "wisdom",
+    "wisdom": "wisdom",
+
+    "portal scroll": "portal",
+    "portal": "portal",
+
+    "armourer's scrap": "scrap",
+    "armourers scrap": "scrap",
+    "armourer's": "scrap",
+    "armourers": "scrap",
+    "scrap": "scrap",
+
+    "blacksmith's whetstone": "whetstone",
+    "blacksmiths whetstone": "whetstone",
+    "blacksmith's": "whetstone",
+    "blacksmiths": "whetstone",
+    "whetstone": "whetstone",
+    
+    "glassblower's bauble": "bauble",
+    "glassblowers bauble": "bauble",
+    "glassblower's": "bauble",
+    "glassblowers": "bauble",
+    "bauble": "bauble",
+    
+    "orb of transmutation": "transmute",
+    "transmutation": "transmute",
+    "transmute": "transmute",
+
+    "orb of augmentation": "aug",
+    "augmentation": "aug",
+    "augment": "aug",
+    "aug": "aug",
+
+    "awakened-sextant": "awakened-sextant",
+    "awakened sextant": "awakened-sextant",
+
+    "elevated-sextant": "elevated-sextant",
+    "elevated sextant": "elevated-sextant",
+
+    "orb-of-unmaking": "orb-of-unmaking",
+    "orb of unmaking": "orb-of-unmaking",
+    "unmaking": "orb-of-unmaking",
+
+    "veiled-chaos-orb": "veiled-chaos-orb",
+    "veiled chaos orb": "veiled-chaos-orb",
+    "veiled": "veiled-chaos-orb",
+
+    "enkindling-orb": "enkindling-orb",
+    "enkindling orb": "enkindling-orb",
+    "enkindling": "enkindling-orb",
+
+    "instilling-orb": "instilling-orb",
+    "instilling orb": "instilling-orb",
+    "instilling": "instilling-orb",
+
+    "stacked-deck": "stacked-deck",
+    "stacked deck": "stacked-deck",
+
+    "eldritch-chaos-orb": "eldritch-chaos-orb",
+    "eldritch chaos orb": "eldritch-chaos-orb",
+    "eldritch chaos": "eldritch-chaos-orb",
+
+    "eldritch-exalted-orb": "eldritch-exalted-orb",
+    "eldritch exalted orb": "eldritch-exalted-orb",
+    "eldritch exalted": "eldritch-exalted-orb",
+
+    "eldritch-orb-of-annulment": "eldritch-orb-of-annulment",
+    "eldritch orb of annulment": "eldritch-orb-of-annulment",
+    "eldritch annulment": "eldritch-orb-of-annulment",
+
+    "lesser-eldritch-ember": "lesser-eldritch-ember",
+    "lesser eldritch ember": "lesser-eldritch-ember",
+    "lesser ember": "lesser-eldritch-ember",
+
+    "greater-eldritch-ember": "greater-eldritch-ember",
+    "greater eldritch ember": "greater-eldritch-ember",
+    "greater ember": "greater-eldritch-ember",
+
+    "grand-eldritch-ember": "grand-eldritch-ember",
+    "grand eldritch ember": "grand-eldritch-ember",
+    "grand ember": "grand-eldritch-ember",
+
+    "exceptional-eldritch-ember": "exceptional-eldritch-ember",
+    "exceptional eldritch ember": "exceptional-eldritch-ember",
+    "exceptional ember": "exceptional-eldritch-ember",
+
+    "lesser-eldritch-ichor": "lesser-eldritch-ichor",
+    "lesser eldritch ichor": "lesser-eldritch-ichor",
+    "lesser ichor": "lesser-eldritch-ichor",
+
+    "greater-eldritch-ichor": "greater-eldritch-ichor",
+    "greater eldritch ichor": "greater-eldritch-ichor",
+    "greater ichor": "greater-eldritch-ichor",
+
+    "grand-eldritch-ichor": "grand-eldritch-ichor",
+    "grand eldritch ichor": "grand-eldritch-ichor",
+    "grand ichor": "grand-eldritch-ichor",
+
+    "exceptional-eldritch-ichor": "exceptional-eldritch-ichor",
+    "exceptional eldritch ichor": "exceptional-eldritch-ichor",
+    "exceptional ichor": "exceptional-eldritch-ichor",
+
+    "orb-of-conflict": "orb-of-conflict",
+    "orb of conflict": "orb-of-conflict",
+    "conflict": "orb-of-conflict",
+
+    "primitive-chaotic-resonator": "primitive-chaotic-resonator",
+    "primitive chaotic resonator": "primitive-chaotic-resonator",
+    "primitive chaotic": "primitive-chaotic-resonator",
+    "primitive resonator": "primitive-chaotic-resonator",
+
+    "potent-chaotic-resonator": "potent-chaotic-resonator",
+    "potent chaotic resonator": "potent-chaotic-resonator",
+    "potent chaotic": "potent-chaotic-resonator",
+    "potent resonator": "potent-chaotic-resonator",
+
+    "powerful-chaotic-resonator": "powerful-chaotic-resonator",
+    "powerful chaotic resonator": "powerful-chaotic-resonator",
+    "powerful chaotic": "powerful-chaotic-resonator",
+    "powerful resonator": "powerful-chaotic-resonator",
+
+    "prime-chaotic-resonator": "prime-chaotic-resonator",
+    "prime chaotic resonator": "prime-chaotic-resonator",
+    "prime chaotic": "prime-chaotic-resonator",
+    "prime resonator": "prime-chaotic-resonator",
+
+    "scorched-fossil": "scorched-fossil",
+    "scorched fossil": "scorched-fossil",
+    "scorched": "scorched-fossil",
+
+    "frigid-fossil": "frigid-fossil",
+    "frigid fossil": "frigid-fossil",
+    "frigid": "frigid-fossil",
+
+    "metallic-fossil": "metallic-fossil",
+    "metallic fossil": "metallic-fossil",
+    "metallic": "metallic-fossil",
+
+    "jagged-fossil": "jagged-fossil",
+    "jagged fossil": "jagged-fossil",
+    "jagged": "jagged-fossil",
+
+    "aberrant-fossil": "aberrant-fossil",
+    "aberrant fossil": "aberrant-fossil",
+    "aberrant": "aberrant-fossil",
+
+    "pristine-fossil": "pristine-fossil",
+    "pristine fossil": "pristine-fossil",
+    "pristine": "pristine-fossil",
+
+    "dense-fossil": "dense-fossil",
+    "dense fossil": "dense-fossil",
+    "dense": "dense-fossil",
+
+    "corroded-fossil": "corroded-fossil",
+    "corroded fossil": "corroded-fossil",
+    "corroded": "corroded-fossil",
+
+    "prismatic-fossil": "prismatic-fossil",
+    "prismatic fossil": "prismatic-fossil",
+    "prismatic": "prismatic-fossil",
+
+    "aetheric-fossil": "aetheric-fossil",
+    "aetheric fossil": "aetheric-fossil",
+    "aetheric": "aetheric-fossil",
+
+    "serrated-fossil": "serrated-fossil",
+    "serrated fossil": "serrated-fossil",
+    "serrated": "serrated-fossil",
+
+    "lucent-fossil": "lucent-fossil",
+    "lucent fossil": "lucent-fossil",
+    "lucent": "lucent-fossil",
+
+    "shuddering-fossil": "shuddering-fossil",
+    "shuddering fossil": "shuddering-fossil",
+    "shuddering": "shuddering-fossil",
+
+    "bound-fossil": "bound-fossil",
+    "bound fossil": "bound-fossil",
+    "bound": "bound-fossil",
+
+    "perfect-fossil": "perfect-fossil",
+    "perfect fossil": "perfect-fossil",
+    "perfect": "perfect-fossil",
+
+    "deft-fossil": "deft-fossil",
+    "deft fossil": "deft-fossil",
+    "deft": "deft-fossil",
+
+    "fundamental-fossil": "fundamental-fossil",
+    "fundamental fossil": "fundamental-fossil",
+    "fundamental": "fundamental-fossil",
+
+    "faceted-fossil": "faceted-fossil",
+    "faceted fossil": "faceted-fossil",
+    "faceted": "faceted-fossil",
+
+    "bloodstained-fossil": "bloodstained-fossil",
+    "bloodstained fossil": "bloodstained-fossil",
+    "bloodstained": "bloodstained-fossil",
+
+    "hollow-fossil": "hollow-fossil",
+    "hollow fossil": "hollow-fossil",
+    "hollow": "hollow-fossil",
+
+    "fractured-fossil": "fractured-fossil",
+    "fractured fossil": "fractured-fossil",
+    "fractured": "fractured-fossil",
+
+    "glyphic-fossil": "glyphic-fossil",
+    "glyphic fossil": "glyphic-fossil",
+    "glyphic": "glyphic-fossil",
+
+    "tangled-fossil": "tangled-fossil",
+    "tangled fossil": "tangled-fossil",
+    "tangled": "tangled-fossil",
+
+    "sanctified-fossil": "sanctified-fossil",
+    "sanctified fossil": "sanctified-fossil",
+    "sanctified": "sanctified-fossil",
+
+    "gilded-fossil": "gilded-fossil",
+    "gilded fossil": "gilded-fossil",
+    "gilded": "gilded-fossil",
+
+    "deafening-essence-of-hatred": "deafening-essence-of-hatred",
+    "deafening essence of hatred": "deafening-essence-of-hatred",
+    "deafening hatred": "deafening-essence-of-hatred",
+    
+    "deafening-essence-of-woe": "deafening-essence-of-woe",
+    "deafening essence of woe": "deafening-essence-of-woe",
+    "deafening woe": "deafening-essence-of-woe",
+    
+    "deafening-essence-of-greed": "deafening-essence-of-greed",
+    "deafening essence of greed": "deafening-essence-of-greed",
+    "deafening greed": "deafening-essence-of-greed",
+
+    "deafening-essence-of-contempt": "deafening-essence-of-contempt",
+    "deafening essence of contempt": "deafening-essence-of-contempt",
+    "deafening contempt": "deafening-essence-of-contempt",
+
+    "deafening-essence-of-sorrow": "deafening-essence-of-sorrow",
+    "deafening essence of sorrow": "deafening-essence-of-sorrow",
+    "deafening sorrow": "deafening-essence-of-sorrow",
+
+    "deafening-essence-of-anger": "deafening-essence-of-anger",
+    "deafening essence of anger": "deafening-essence-of-anger",
+    "deafening anger": "deafening-essence-of-anger",
+
+    "deafening-essence-of-torment": "deafening-essence-of-torment",
+    "deafening essence of torment": "deafening-essence-of-torment",
+    "deafening torment": "deafening-essence-of-torment",
+
+    "deafening-essence-of-fear": "deafening-essence-of-fear",
+    "deafening essence of fear": "deafening-essence-of-fear",
+    "deafening fear": "deafening-essence-of-fear",
+
+    "deafening-essence-of-suffering": "deafening-essence-of-suffering",
+    "deafening essence of suffering": "deafening-essence-of-suffering",
+    "deafening suffering": "deafening-essence-of-suffering",
+
+    "deafening-essence-of-rage": "deafening-essence-of-rage",
+    "deafening essence of rage": "deafening-essence-of-rage",
+    "deafening rage": "deafening-essence-of-rage",
+
+    "deafening-essence-of-wrath": "deafening-essence-of-wrath",
+    "deafening essence of wrath": "deafening-essence-of-wrath",
+    "deafening wrath": "deafening-essence-of-wrath",
+
+    "deafening-essence-of-doubt": "deafening-essence-of-doubt",
+    "deafening essence of doubt": "deafening-essence-of-doubt",
+    "deafening doubt": "deafening-essence-of-doubt",
+
+    "deafening-essence-of-anguish": "deafening-essence-of-anguish",
+    "deafening essence of anguish": "deafening-essence-of-anguish",
+    "deafening anguish": "deafening-essence-of-anguish",
+
+    "deafening-essence-of-loathing": "deafening-essence-of-loathing",
+    "deafening essence of loathing": "deafening-essence-of-loathing",
+    "deafening loathing": "deafening-essence-of-loathing",
+
+    "deafening-essence-of-spite": "deafening-essence-of-spite",
+    "deafening essence of spite": "deafening-essence-of-spite",
+    "deafening spite": "deafening-essence-of-spite",
+
+    "deafening-essence-of-zeal": "deafening-essence-of-zeal",
+    "deafening essence of zeal": "deafening-essence-of-zeal",
+    "deafening zeal": "deafening-essence-of-zeal",
+
+    "deafening-essence-of-misery": "deafening-essence-of-misery",
+    "deafening essence of misery": "deafening-essence-of-misery",
+    "deafening misery": "deafening-essence-of-misery",
+
+    "deafening-essence-of-dread": "deafening-essence-of-dread",
+    "deafening essence of dread": "deafening-essence-of-dread",
+    "deafening dread": "deafening-essence-of-dread",
+
+    "deafening-essence-of-scorn": "deafening-essence-of-scorn",
+    "deafening essence of scorn": "deafening-essence-of-scorn",
+    "deafening scorn": "deafening-essence-of-scorn",
+
+    "deafening-essence-of-envy": "deafening-essence-of-envy",
+    "deafening essence of envy": "deafening-essence-of-envy",
+    "deafening envy": "deafening-essence-of-envy",
+
+    "essence-of-hysteria": "essence-of-hysteria",
+    "essence of hysteria": "essence-of-hysteria",
+    "hysteria": "essence-of-hysteria",
+
+    "essence-of-horror": "essence-of-horror",
+    "essence of horror": "essence-of-horror",
+    "horror": "essence-of-horror",
+
+    "essence-of-delirium": "essence-of-delirium",
+    "essence of delirium": "essence-of-delirium",
+    "delirium": "essence-of-delirium",
+
+    "essence-of-insanity": "essence-of-insanity",
+    "essence of insanity": "essence-of-insanity",
+    "insanity": "essence-of-insanity",
+
+    "remnant-of-corruption": "remnant-of-corruption",
+    "remnant of corruption": "remnant-of-corruption",
+    "remnant": "remnant-of-corruption"
+}
